@@ -2,9 +2,17 @@
 
 I'm a developer passionate about creating innovative tools and interesting projects. I focus on frontend development, developer tools, and fun experimental projects.
 
+![](https://github-readme-stats-lac-nu-20.vercel.app/api/wakatime?username=youxam&layout=compact&langs_count=20&custom_title=YouXam%20WakaTime%20Stats)
+
+<details>
+
+<summary>
+Read more about me...
+</summary>
+
 ## 🚀 Featured Projects
 
-### Frontend Development Tools
+### Frontend Projects
 - **[vue-sfc-component](https://github.com/YouXam/vue-sfc-component)** - A browser-based compiler and mounting system for Vue Single File Components (SFCs)
 - **[mdvc](https://github.com/YouXam/mdvc)** - Transform markdown-vue files into Vue components directly in the browser
 
@@ -44,5 +52,4 @@ I'm a developer passionate about creating innovative tools and interesting proje
 
 Core member of **[BYR Docs](https://github.com/byrdocs)** - BUPT's educational resource sharing platform, independently developed frontend and backend systems while leading CI/CLI development.
 
----
-![](https://github-readme-stats-lac-nu-20.vercel.app/api/wakatime?username=youxam&layout=compact&langs_count=20&custom_title=YouXam%20WakaTime%20Stats)
+</details>
