@@ -40,4 +40,9 @@ I'm a developer passionate about creating innovative tools and interesting proje
   - Basic embedded development experience
   - C and Rust programming on ESP32 microcontrollers
 
+##  🏢 Organization
+
+Core member of **[BYR Docs](https://github.com/byrdocs)** - BUPT's educational resource sharing platform, independently developed frontend and backend systems while leading CI/CLI development.
+
+---
 ![](https://github-readme-stats-lac-nu-20.vercel.app/api/wakatime?username=youxam&layout=compact&langs_count=20&custom_title=YouXam%20WakaTime%20Stats)
