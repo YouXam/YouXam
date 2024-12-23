@@ -1,6 +1,6 @@
 # Hi there 👋 I'm YouXam
 
-I'm a developer passionate about creating innovative tools and interesting projects. I focus on frontend development, developer tools, and fun experimental projects.
+I'm a developer passionate about creating innovative tools and interesting projects. I focus on full-stack development, developer tools, and fun experimental projects.
 
 ![](https://github-readme-stats-lac-nu-20.vercel.app/api/wakatime?username=youxam&layout=compact&langs_count=20&custom_title=YouXam%20WakaTime%20Stats)
 
