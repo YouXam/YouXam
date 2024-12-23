@@ -36,5 +36,8 @@ I'm a developer passionate about creating innovative tools and interesting proje
   - Kubernetes
   - Terraform
   - Cloudflare
+- Embedded Development
+  - Basic embedded development experience
+  - C and Rust programming on ESP32 microcontrollers
 
 ![](https://github-readme-stats-lac-nu-20.vercel.app/api/wakatime?username=youxam&layout=compact&langs_count=20&custom_title=YouXam%20WakaTime%20Stats)
