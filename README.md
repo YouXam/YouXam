@@ -1,4 +1,4 @@
-# Hi there 👋 I'm YouXam
+# Hi there 👋 I'm YouXam <sub>/juːkˈsæm/</sub>
 
 I'm a developer passionate about creating innovative tools and interesting projects. I focus on full-stack development, developer tools, and fun experimental projects.
 
