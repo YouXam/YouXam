@@ -28,6 +28,8 @@ Read more about me...
 - **[CF Counter](https://github.com/YouXam/cf-counter)** - Lightweight counter service built on Cloudflare Workers
 - **[Geo Note](https://github.com/YouXam/geo-note)** - Location-based note-taking app with map visualization
 - **[Is Search Bot](https://github.com/YouXam/is-search-bot)** - API to detect search engine bot IPs
+- **[filelist-preview](https://github.com/YouXam/filelist-preview)** A simple and efficient service to generate visual previews of file directory structures
+
 
 ## 🛠️ Technologies
 - Web Development
